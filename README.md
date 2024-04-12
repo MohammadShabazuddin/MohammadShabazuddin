@@ -2,13 +2,13 @@
 
 # Shabazuddin Mohammad 👨‍💻
 
-📧 Email: shabazuddin.198@gmail.com | 🌐 [Portfolio](https://mohammadshabazuddin.github.io/) | 🔗 [LinkedIn](https://www.linkedin.com/in/shabazuddin123/) | 📂 [GitHub](https://github.com/MohammadShabazuddin)
+📧 Email: shabazuddin.198@gmail.com | 🌐 [Portfolio](https://personal-portfolio-iota-brown.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/shabazuddin123/) | 📂 [GitHub](https://github.com/MohammadShabazuddin)
 
 ## Education 🎓
 - **Master of Science in Computer and Information Science**
   - Florida International University | Florida, USA
   - 📅 Jan 2023 - Present
-  - 🎓 Current GPA: 4.0/4.0
+  - 🎓 Current GPA: 3.9/4.0
 
 - **Bachelors of Technology in Computer Science and Engineering**
   - JNTUH - CVR | Telangana, India
