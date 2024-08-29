@@ -1,10 +1,32 @@
-### Hi there <img src="https://github.com/user-attachments/assets/5fbfc2cc-719f-4cfc-8f69-e767a534ed66" alt="Hi" width="30" height="30">
+<h1 align="center">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
+
+<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MohammadShabazuddin">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=I'm+Shabazuddin+Mohammad" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <table style="width:100%" >
+    <tr>
+      <td align="center">
+        🎉 Thanks for visiting my profile! Dive into my projects, explore, and let’s connect!🌟
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://profile-counter.glitch.me/aishwaryamensinkai/count.svg" alt="" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
-
-# Shabazuddin Mohammad 👨‍💻
-
-📧 Email: shabazuddin.198@gmail.com | 🌐 [Portfolio](https://personal-portfolio-iota-brown.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/shabazuddin123/) | 📂 [GitHub](https://github.com/MohammadShabazuddin)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 Email: shabazuddin.198@gmail.com | 🌐 [Portfolio](https://personal-portfolio-iota-brown.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/shabazuddin123/) | 📂 [GitHub](https://github.com/MohammadShabazuddin)
 
 ## Education 🎓
 - **Master of Science in Computer and Information Science**
@@ -24,27 +46,6 @@
 - **Technologies:** AWS, Node.js, GraphQL, JSON, RESTful APIs
 - **Frameworks:** React, React Native, Spring Boot, Next.js, Express.js
 - **Libraries & Tools:**  Git, GitHub, Figma, Docker, TensorFlow, PyTorch, Scikit-learn, Pandas, JIRA, Kubernetes, IntelliJ, Bootstrap, Tailwind CSS, Material UI, ShadCN UI
-
-## Experience 💼
-### Yash Technologies Private Limited - Software Engineer
-- Full-time | 📅 Mar 2021 - Dec 2022
-  - Implemented routing and authentication for enhanced user navigation and security.
-  - Created React screens using Stateless Functional Components.
-  - Automated email notifications using Email.js and contributed to Gulp and Nodemon implementation.
-  - Implemented user authentication and authorization with Spring Security.
-  - Designed RESTful web services using Spring Boot.
-
-### Yash Technologies Private Limited - Associate Software Engineer
-- Full-time | 📅 Jan 2020 - Feb 2021
-  - Developed custom components for front-end UI using HTML5/CSS3, React.js, and Node.js.
-  - Collected, cleaned, and analyzed structured and unstructured data using R and advanced SQL queries.
-  - Utilized reactive forms and template-driven forms in React.js.
-  - Implemented Test-Driven Development (TDD) with Agile methodology.
-
-### Phoenix Business Consulting - Software Engineer Intern
-- Full-time | 📅 Mar 2019 - Dec 2019
-  - Designed and built an automation tool for DevOps efficiency.
-  - Provided technical support to over 30 clients, resolving critical issues.
 
 ## Projects 🚀
 ### Full Stack Food Ordering App 
@@ -122,5 +123,21 @@ _Connect with me through various portals :_
     <td><a href="https://twitter.com/shabazuddin786" target="_blank">Twitter</a></td>
   </tr>
 </table>
+</div>
 
-I'm always open to collaboration and new opportunities! Feel free to reach out and connect with me. 🌟
+<div style="text-align:centre" align="center" href="https://github.com/aishwaryamensinkai">
+  <h2>
+    My Github History!
+  </h2>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=MohammadShabazuddin&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohammadShabazuddin&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadShabazuddin&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadShabazuddin&theme=onedark" />
+
+  <br/>
+
+![Snake animation](https://raw.githubusercontent.com/aishwaryamensinkai/aishwaryamensinkai/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm always open to collaboration and new opportunities! Feel free to reach out and connect with me. 🌟
