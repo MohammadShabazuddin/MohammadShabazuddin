@@ -28,64 +28,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 Email: shabazuddin.198@gmail.com | 🌐 [Portfolio](https://personal-portfolio-iota-brown.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/shabazuddin123/) | 📂 [GitHub](https://github.com/MohammadShabazuddin)
 
-## Education 🎓
-- **Master of Science in Computer and Information Science**
-  - Florida International University | Florida, USA
-  - 📅 Jan 2023 - Present
-  - 🎓 Current GPA: 3.8/4.0
-
-- **Bachelors of Technology in Computer Science and Engineering**
-  - JNTUH - CVR | Telangana, India
-  - 📅 July 2015 - June 2019
-  - 🎓 GPA: 8.33/10
-  - 📚 Courses: Data Structures and Algorithms, OS, DBMS, ML, AI, Big Data, Web Technologies, IOT, Data Mining, Cloud Computing
-
-## Skills 🚀
-- **Languages:** C, Java, Python, C#, HTML, CSS, JavaScript, TypeScript, SQL
-- **Databases:** MySQL, MongoDB, PostgreSQL, Firebase Firestore
-- **Technologies:** AWS, Node.js, GraphQL, JSON, RESTful APIs
-- **Frameworks:** React, React Native, Spring Boot, Next.js, Express.js
-- **Libraries & Tools:**  Git, GitHub, Figma, Docker, TensorFlow, PyTorch, Scikit-learn, Pandas, JIRA, Kubernetes, IntelliJ, Bootstrap, Tailwind CSS, Material UI, ShadCN UI
-
-## Projects 🚀
-### Full Stack Food Ordering App 
-- ReactJS + Redux + Tailwind CSS + Firebase + Framer Motion + Stripe Payment Gateway
-- Developed a modern React JS-based UI with Framer Motion Animations.
-- Integrated Stripe Payment Gateway and implemented Custom API Endpoints using Node.js, Express, and Firebase Cloud Functions.
-
-### Full Stack Social Media App 
-- React.js + Appwrite + React Query + TypeScript + Shadcn + Tailwind CSS
-- Developed a full-stack social media app with React JS, Appwrite, Tailwind CSS, and React Query.
-- Includes robust authentication, explore page, like and save functionality, and a beautiful UI with CRUD operations.
-
-### Secure Image Classification - Deep Learning for Image-Based Authentication 
-- CAPTCHA recognition using CNN with TensorFlow/Keras
-- Developed an image classifier using CNN for CAPTCHA recognition.
-- Utilized TensorFlow, Keras, and other libraries for image processing and machine learning.
-
-### Machine Learning for Face Identification 
-- Optimizing Facial Recognition with Support Vector Machines and PCA
-- Implemented facial recognition using SVM and PCA with the LFW dataset.
-- Visualized eigenfaces, displayed a confusion matrix, and generated a gallery of predicted and true faces.
-  
-###  ShabbuFlix: AI Powered Movie App | Nodejs, React, Material UI, Alan AI, PostgreSQL 
-- Developed a movie application with user authentication, light/dark mode, and voice search via Alan AI, featuring
-movie/actor details, watchlists, and API integration using Axios and Redux.
-- Implemented search functionality and personalized favorite lists for an enhanced user experience.
-
-### AI Article Summarizer | React.js, TypeScript, Redux Toolkit, Tailwind CSS, RapidAPI 
-- Engineered an AI Summarizer which can Summarize any kind of article with just one click using the powerful OpenAI model.
-- Users can input the URL of a lengthy article, and the web app utilizes AI to provide a summary.
-  
-### AI Support Chatbot | Next.js, OpenAI, TypeScript, Material UI, Firebase 
-- Designed a virtual assistant tailored to guide students through the process of finding, applying for, and securing tech
-internships, offering personalized recommendations, application tracking, and interview preparation resources.
-
-## Contact
+<h2 style="text-align:centre" align="center">Contact</h2>
 
 _Connect with me through various portals :_
 
-<table>
+<table style="text-align:centre" align="center">
   <tr>
     <th></th>
     <th>Social Media</th>
@@ -125,7 +72,7 @@ _Connect with me through various portals :_
 </table>
 </div>
 
-<div style="text-align:centre" align="center" href="https://github.com/aishwaryamensinkai">
+<div style="text-align:centre" align="center" href="https://github.com/MohammadShabazuddin">
   <h2>
     My Github History!
   </h2>
