@@ -49,7 +49,7 @@
 <h2 align="center">📊 GitHub Contributions and Activity 📊</h2>
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
- 
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohammadShabazuddin/MohammadShabazuddin/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 
