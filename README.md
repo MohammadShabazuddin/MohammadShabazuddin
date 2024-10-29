@@ -50,7 +50,6 @@
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
  <img src="https://raw.githubusercontent.com/MohammadShabazuddin/MohammadShabazuddin/output/snake.svg" width = 1500 alt="Snake animation" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohammadShabazuddin/MohammadShabazuddin/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 
