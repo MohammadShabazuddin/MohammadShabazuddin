@@ -25,9 +25,9 @@
   </table>
 </div>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 Email: shabazuddin.198@gmail.com | 🌐 [Portfolio](https://personal-portfolio-iota-brown.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/shabazuddin123/) | 📂 [GitHub](https://github.com/MohammadShabazuddin)
-
+<div align="center">
+ 📧 Email: shabazuddin.198@gmail.com | 🌐 [Portfolio](https://personal-portfolio-iota-brown.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/shabazuddin123/) | 📂 [GitHub](https://github.com/MohammadShabazuddin)
+</div>
 <div align="center"> 
   <a href="mailto:shabazuddin.198@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -65,5 +65,6 @@
 <br/><br/>
 
 <hr/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm always open to collaboration and new opportunities! Feel free to reach out and connect with me. 🌟
+<div align="center">
+I'm always open to collaboration and new opportunities! Feel free to reach out and connect with me. 🌟
+</div>
