@@ -21,3 +21,13 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+            publish_dir: ./dist
+            publish_branch: output
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            
+        
+
+            
