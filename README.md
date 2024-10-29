@@ -28,63 +28,42 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 Email: shabazuddin.198@gmail.com | 🌐 [Portfolio](https://personal-portfolio-iota-brown.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/shabazuddin123/) | 📂 [GitHub](https://github.com/MohammadShabazuddin)
 
-<h2 style="text-align:centre" align="center">Contact</h2>
-
-_Connect with me through various portals :_
-
-<table style="text-align:centre" align="center">
-  <tr>
-    <th></th>
-    <th>Social Media</th>
-    <th>Username</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /></td>
-    <td>Email</td>
-    <td><code>shabazuddin.198@gmail.com</code></td>
-    <td><a href="mailto:shabazuddin.198@gmail.com" target="_blank">Email</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /></td>
-    <td>LinkedIn</td>
-    <td><code>Shabazuddin Mohammad</code></td>
-    <td><a href="https://www.linkedin.com/in/shabazuddin123/" target="_blank">LinkedIn</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /></td>
-    <td>Instagram</td>
-    <td><code>shabaz_uddin</code></td>
-    <td><a href="https://www.instagram.com/shabaz_uddin/" target="_blank">Instagram</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /></td>
-    <td>Facebook</td>
-    <td><code>Shabaz</code></td>
-    <td><a href="https://www.facebook.com/shabaz.shabaz.37819/" target="_blank">Facebook</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /></td>
-    <td>Twitter</td>
-    <td><code>shabazuddin786</code></td>
-    <td><a href="https://twitter.com/shabazuddin786" target="_blank">Twitter</a></td>
-  </tr>
-</table>
+<div align="center"> 
+  <a href="mailto:shabazuddin.198@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/shabazuddin123/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/MohammadShabazuddin" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
 </div>
 
-<div style="text-align:centre" align="center" href="https://github.com/MohammadShabazuddin">
-  <h2>
-    My Github History!
-  </h2>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=MohammadShabazuddin&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohammadShabazuddin&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadShabazuddin&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadShabazuddin&theme=onedark" />
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,vscode,github,git" /><br>
+</div>
 
+<h2 align="center">📊 GitHub Contributions and Activity 📊</h2>
+<div align="center">
+  <h3>🐍 My Contributions 🐍</h3>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohammadShabazuddin/MohammadShabazuddin/output/github-contribution-grid-snake.svg" />
   <br/>
-
-![Snake animation](https://raw.githubusercontent.com/aishwaryamensinkai/aishwaryamensinkai/output/github-contribution-grid-snake-dark.svg)
-
 </div>
+
+<h2 align="center">⚡ GitHub Activity ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MohammadShabazuddin&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MohammadShabazuddin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MohammadShabazuddin&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm always open to collaboration and new opportunities! Feel free to reach out and connect with me. 🌟
