@@ -4,7 +4,6 @@
 </h1>
 
 <div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/MohammadShabazuddin">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=I'm+Shabazuddin+Mohammad" alt="Typing SVG" />
   </a>
@@ -26,8 +25,9 @@
 </div>
 
 <div align="center">
- 📧 Email: shabazuddin.198@gmail.com | 🌐 [Portfolio](https://personal-portfolio-iota-brown.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/shabazuddin123/) | 📂 [GitHub](https://github.com/MohammadShabazuddin)
+ 📧 Email: shabazuddin.198@gmail.com | 🌐 [Portfolio](https://personal-portfolio-iota-brown.vercel.app/)
 </div>
+ <br/>
 <div align="center"> 
   <a href="mailto:shabazuddin.198@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -43,7 +43,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nextjs,nodejs,express,mongodb,aws,docker,vscode,github,git" /><br>
 </div>
 
 <h2 align="center">📊 GitHub Contributions and Activity 📊</h2>
