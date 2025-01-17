@@ -24,9 +24,6 @@
   </table>
 </div>
 
-<div align="center">
- 📧 Email: shabazuddin.198@gmail.com | 🌐 [Portfolio](https://personal-portfolio-iota-brown.vercel.app/)
-</div>
  <br/>
 <div align="center"> 
   <a href="mailto:shabazuddin.198@gmail.com">
@@ -38,12 +35,15 @@
   <a href="https://github.com/MohammadShabazuddin" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
+  <a href="https://3-d-portfolio-jdv5.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nextjs,nodejs,express,mongodb,aws,docker,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,django,mongodb,aws,docker,vscode,github,git" /><br>
 </div>
 
 <h2 align="center">📊 GitHub Contributions and Activity 📊</h2>
